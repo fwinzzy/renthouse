@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "renthouse",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e8e0c476-eab6-4e1f-9750-08a62324186e",
+			"database_name": "renthousedb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
